@@ -1,7 +1,11 @@
 =<!-- ==================== PROFILE HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=SWEATHA&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=CYBERSECURITY%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=18&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b18,25:1a0f3b,55:5b21b6,75:06b6d4,100:080b18&height=280&section=header&text=SWEATHA&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=20&descColor=d8b4fe" />
+</p>
+
+<p align="center">
+  <i>Turning ideas into a safer digital tomorrow ✦</i>
 </p>
 
 <br>
@@ -20,7 +24,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mpsweatha6bl@gmail.com">
+<a href="mailto:mpsweatha6bl@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
