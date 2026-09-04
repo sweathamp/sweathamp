@@ -1,170 +1,128 @@
-=<!-- ==================== PROFILE HEADER ==================== -->
+<!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b18,25:1a0f3b,55:5b21b6,75:06b6d4,100:080b18&height=280&section=header&text=SWEATHA&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=20&descColor=d8b4fe" />
-</p>
-
-<p align="center">
-  <i>Turning ideas into a safer digital tomorrow ✦</i>
+  <img src="./banner.png" alt="Sweatha Banner" width="100%">
 </p>
 
 <br>
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="left">🤝 Connect with me</h2>
+# ✈️ Connect with me
+
+Let's build, learn, and create something amazing together!
 
 <p>
-
-<a href="https://github.com/sweathamp">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sweatha-m-p/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mpsweatha6bl@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/sweathamp">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sweatha-m-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mpsweatha6bl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ==================== ABOUT ME ==================== -->
 
-# About Me 👩‍💻
+# 👩‍💻 About Me
 
-- 🔐 CS & Design student passionate about Cybersecurity.
-- 💻 Interested in Software Development & Web Development.
-- 🤖 Exploring Artificial Intelligence and AI Agents.
-- 🌱 Learning by building real-world projects.
-- 🚀 Working towards becoming a skilled Security & Software Professional.
+🎓 Final Year Computer Science & Design Student
 
----
+🔐 Passionate about Cybersecurity & Ethical Hacking
 
-<!-- ==================== STATS ==================== -->
+🤖 Exploring Artificial Intelligence and AI Agents
 
-# Stats 📊
+💻 Interested in Software Development & Web Development
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sweathamp&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sweathamp&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sweathamp&theme=tokyo-night&hide_border=true"/>
-
-</p>
+🚀 Always learning and working on real-world projects
 
 ---
 
 <!-- ==================== SKILLS ==================== -->
 
-# Skills 🛠️
+<h1 align="center">🛠️ Skills</h1>
 
-<table>
+<h3 align="center">💻 Development</h3>
 
-<tr>
-<th>I have</th>
-<th>I'm learning</th>
-<th>In the memory bank</th>
-</tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="48"/>
+</p>
 
-<tr>
+<h3 align="center">🗄️ Data & Systems</h3>
 
-<td align="center" width="33%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="48"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux" width="48" height="48"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<h3 align="center">🛠️ Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=c" />
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-</td>
-
-<td align="center" width="33%">
-
-🐍 Python
-
-<br><br>
-
-🛡️ Cybersecurity
-
-<br><br>
-
-🤖 Artificial Intelligence
-
-<br><br>
-
-🌐 Web Development
-
-<br><br>
-
-🐧 Linux
-
-</td>
-
-</tr>
-
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+</p>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-# Featured Projects 🚀
+# 🚀 Featured Projects
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🛡️ CyberSphere AI
 
-AI-powered cybersecurity platform designed to help analyse security issues and support cybersecurity workflows.
+AI-powered cybersecurity platform designed to analyse security issues and support cybersecurity workflows.
 
 **Cybersecurity • AI • Automation**
 
+<br>
+
+<a href="https://github.com/sweathamp/CyberSphere-AI">
+  <b>View Project →</b>
+</a>
+
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🤝 SkillXchange
 
@@ -172,29 +130,47 @@ A peer-to-peer platform where people can exchange skills and learn from each oth
 
 **React • Node.js • PostgreSQL**
 
+<br>
+
+<a href="https://github.com/Subikshabala/SkillXchange">
+  <b>View Project →</b>
+</a>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🔍 Passive Recon Tool
+### 🧠 Adaptive Skill Path Recommendation System
 
-Automation tool for gathering publicly available information for cybersecurity reconnaissance.
+An intelligent recommendation system that analyses user skills and learning goals to suggest personalized skill development paths.
 
-**Python • OSINT**
+**Python • AI/ML • Recommendation System**
+
+<br>
+
+<a href="https://github.com/sweathamp/Adaptive-Skill-Path-Recommendation-System">
+  <b>View Project →</b>
+</a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🦈 Network Sniffer
+### 🎣 Phishing Detection System
 
-Python-based project for understanding and analysing network traffic.
+An intelligent cybersecurity solution designed to identify and detect suspicious phishing attempts using security analysis and machine learning techniques.
 
-**Python • Networking**
+**Python • Machine Learning • Cybersecurity**
+
+<br>
+
+<a href="https://github.com/sweathamp/PS02_PhishDetect">
+  <b>View Project →</b>
+</a>
 
 </td>
 
@@ -202,15 +178,24 @@ Python-based project for understanding and analysing network traffic.
 
 </table>
 
+<br>
+
+<p align="center">
+
+<a href="https://github.com/sweathamp?tab=repositories">
+<b>🚀 View More Projects →</b>
+</a>
+
+</p>
+
 ---
 
-<!-- ==================== CURRENTLY ==================== -->
+<!-- ==================== QUOTE ==================== -->
 
-# Currently 🚀
+<p align="center">
+  <i>"Keep learning. Keep building. Keep growing."</i>
+</p>
 
-```text
-🛡️ Building      → CyberSphere AI
-🔐 Learning      → Cybersecurity
-🤖 Exploring     → AI Agents
-💻 Developing    → Full Stack Projects
-🌱 Improving     → Problem Solving & Development Skills
+<p align="center">
+  ❤️ Thanks for visiting!
+</p>
