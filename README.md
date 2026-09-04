@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/sweatha-m-p/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="mpsweatha6bl@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -35,7 +35,6 @@
 - 🔐 CS & Design student passionate about Cybersecurity.
 - 💻 Interested in Software Development & Web Development.
 - 🤖 Exploring Artificial Intelligence and AI Agents.
-- 🛡️ Currently building **CyberSphere AI**.
 - 🌱 Learning by building real-world projects.
 - 🚀 Working towards becoming a skilled Security & Software Professional.
 
